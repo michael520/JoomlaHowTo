@@ -50,5 +50,6 @@ class BablogViewItems extends JViewLegacy
 		JToolbarHelper::addNew('item.add');
 		JToolbarHelper::editList('item.edit');
 		JToolbarHelper::deleteList('Are you sure?', 'items.delete');
+
 	}
 }
